@@ -4,7 +4,7 @@ const Error = () => {
   return (
     <div className=" background d-flex align-items-center justify-content-center">
       <h1>
-        <strong style={{ color: "red" }}>ERROR 404</strong> Not Found
+        <strong style={{ color: "Blue" }}>ERROR 404</strong> Not Found
       </h1>
     </div>
   );
