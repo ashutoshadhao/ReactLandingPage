@@ -9,7 +9,7 @@ const Home = () => {
             <div className="container">
               <div className="row">
                 <div className="col d-flex align-items-center justify-content-center">
-                  <h1 style={{ color: "Blue" }}>Home </h1>
+                  <h1> Home </h1>
                 </div>
                 <div className="col ">
                   <img
