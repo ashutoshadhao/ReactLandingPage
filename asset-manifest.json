@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ReactLandingPage/static/css/main.38d86b5b.css",
-    "main.js": "/ReactLandingPage/static/js/main.313dac9d.js",
+    "main.js": "/ReactLandingPage/static/js/main.f8deb368.js",
     "static/media/HomeImage.jpg": "/ReactLandingPage/static/media/HomeImage.ce07a13d40e8c0ab6cff.jpg",
     "static/media/AboutImage.jpg": "/ReactLandingPage/static/media/AboutImage.8e5e0623e839168d781e.jpg",
     "index.html": "/ReactLandingPage/index.html",
     "main.38d86b5b.css.map": "/ReactLandingPage/static/css/main.38d86b5b.css.map",
-    "main.313dac9d.js.map": "/ReactLandingPage/static/js/main.313dac9d.js.map"
+    "main.f8deb368.js.map": "/ReactLandingPage/static/js/main.f8deb368.js.map"
   },
   "entrypoints": [
     "static/css/main.38d86b5b.css",
-    "static/js/main.313dac9d.js"
+    "static/js/main.f8deb368.js"
   ]
 }
